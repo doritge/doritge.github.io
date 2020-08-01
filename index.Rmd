@@ -3,3 +3,5 @@ title: "My Programming Adventures etc."
 ---
 
 **This is a hub for my professional activity**
+
+Does it really work?
