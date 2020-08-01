@@ -1,0 +1,9 @@
+name: "professional-website"
+output_dir: "."
+navbar:
+  title: "My programming Adventures etc."
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
